@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SaveLoad</string>
+    <string name="text_text">Введите текст</string>
+    <string name="save_text">SAVE</string>
+    <string name="load_text">LOAD</string>
+    <string name="key_text">Введите ключ</string>
+</resources>
